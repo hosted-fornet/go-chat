@@ -1,6 +1,6 @@
 # go-chat
 
-Chat in Python.
+Chat in Golang.
 Interops with Rust.
 
 ## Setup & Building
